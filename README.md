@@ -1,5 +1,5 @@
 # OmniFood-Project-
-<h1>OmniFood Layout With HTML and CSS</h1>
+<h2>OmniFood Layout With HTML and CSS</h2>
 
 ///////////////////////////////////////
 
